@@ -1,4 +1,5 @@
 joblib
 scikit-learn==1.6.1
 tensorflow
+numpy
 gradio
